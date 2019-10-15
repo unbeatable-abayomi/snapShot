@@ -1612,3 +1612,9 @@
 			}
 
 		}
+
+		@media(max-width: 768px){
+			#myimage{
+				display: none !important;
+			}
+		}
